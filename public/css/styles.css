@@ -1,0 +1,100 @@
+.header-main {
+    background-color:  #EAC926;
+    padding: 20px;
+    font-size: 12px; 
+}
+
+.header-main-div-logo {
+    width: 120px;
+    text-align: left;
+}
+
+.header-main-div-boton {
+    text-align: left;
+    font-weight: 400 ;
+}
+
+.header-main-div-button-img {
+    display: flex;  
+}
+
+.header-main-form-img{
+    display: flex;
+    justify-content: flex-start
+}
+
+.header-main-p-tarjeta{
+    font-weight: 400px;
+    text-align: center;
+}
+
+.ul-listas{
+    list-style: none;
+    text-align: left;
+    text-decoration: none;
+    border: 0px;
+    padding: 0px;
+    display: inline-block;       
+}
+
+.burger-menu {
+background-color: #1259c3;
+text-align: center;
+color: white;
+max-width: 40px;
+display: block;
+padding: 5px;
+border-radius: 10px;
+font-size: 18px;
+margin: auto;
+}
+
+/*MAIN*/
+
+.main-main-titulares {
+    font-size: 24px;
+}
+
+.main-article-precio {
+    font-size: 18px;
+}
+
+.main-article-descuentosydescripciones{
+    font-size: 16px;
+}
+
+/*FOOTER */
+.footer-main-section-beneficios{
+    display: block;
+     padding: 10px;
+     text-align: center;
+     font-size: 12px;
+     width: 250px;
+     line-height: 16px;
+     margin-left: 17px;
+     
+}
+
+.footer-main-section-beneficios i{
+    font-size: 2em;
+    color: #03264C;
+}
+
+.footer-main-selection-beneficios-titulo{
+    color: #666;
+}
+
+.footer-main-selection-beneficios-texto{
+    color: #bbbbbb; 
+}
+.footer-main-selection-copyright{
+    display: block;
+    font-size: 8px;
+    color: #bbbbbb; 
+    margin: auto;
+    text-align: center;
+
+}
+
+
+
